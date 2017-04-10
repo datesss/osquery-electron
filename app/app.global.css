@@ -1,6 +1,7 @@
+@import "assets/semantic/semantic.css";
 @import "~font-awesome/css/font-awesome.css";
 
-body {
+/*body {
   position: relative;
   color: white;
   height: 100vh;
@@ -36,4 +37,4 @@ a:hover {
   opacity: 1;
   text-decoration: none;
   cursor: pointer;
-}
+}*/
